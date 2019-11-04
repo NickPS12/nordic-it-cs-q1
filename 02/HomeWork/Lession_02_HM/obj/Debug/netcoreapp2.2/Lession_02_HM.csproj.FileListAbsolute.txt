@@ -1,0 +1,11 @@
+D:\!GitHub\nordic-it-cs-q1\02\HomeWork\Lession_02_HM\bin\Debug\netcoreapp2.2\Lession_02_HM.deps.json
+D:\!GitHub\nordic-it-cs-q1\02\HomeWork\Lession_02_HM\bin\Debug\netcoreapp2.2\Lession_02_HM.runtimeconfig.json
+D:\!GitHub\nordic-it-cs-q1\02\HomeWork\Lession_02_HM\bin\Debug\netcoreapp2.2\Lession_02_HM.runtimeconfig.dev.json
+D:\!GitHub\nordic-it-cs-q1\02\HomeWork\Lession_02_HM\bin\Debug\netcoreapp2.2\Lession_02_HM.dll
+D:\!GitHub\nordic-it-cs-q1\02\HomeWork\Lession_02_HM\bin\Debug\netcoreapp2.2\Lession_02_HM.pdb
+D:\!GitHub\nordic-it-cs-q1\02\HomeWork\Lession_02_HM\obj\Debug\netcoreapp2.2\Lession_02_HM.csprojAssemblyReference.cache
+D:\!GitHub\nordic-it-cs-q1\02\HomeWork\Lession_02_HM\obj\Debug\netcoreapp2.2\Lession_02_HM.csproj.CoreCompileInputs.cache
+D:\!GitHub\nordic-it-cs-q1\02\HomeWork\Lession_02_HM\obj\Debug\netcoreapp2.2\Lession_02_HM.AssemblyInfoInputs.cache
+D:\!GitHub\nordic-it-cs-q1\02\HomeWork\Lession_02_HM\obj\Debug\netcoreapp2.2\Lession_02_HM.AssemblyInfo.cs
+D:\!GitHub\nordic-it-cs-q1\02\HomeWork\Lession_02_HM\obj\Debug\netcoreapp2.2\Lession_02_HM.dll
+D:\!GitHub\nordic-it-cs-q1\02\HomeWork\Lession_02_HM\obj\Debug\netcoreapp2.2\Lession_02_HM.pdb
