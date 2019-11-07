@@ -7,7 +7,7 @@ namespace Lession_02_HM
     {
         static void Clear()
         {
-            //Очистка консоли
+            ///Очистка консоли
             Console.Clear();
         }
         static void Whait(Int16 x)
