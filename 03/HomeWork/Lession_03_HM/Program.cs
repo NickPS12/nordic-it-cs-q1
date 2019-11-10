@@ -5,66 +5,47 @@ namespace Lession_03_HM
 {
     class Program
     {
-        /*
-        Честно говоря, хотел сделать все через циклы, но уж больно долго выходило... Времени не хватило. =(
-
-        static void Ask()
-        {
-            for (int i = 0; i < 4; i++)
-            {
-                Console.WriteLine("Введите имя:");
-                string a = Console.ReadLine();
-                Console.WriteLine("Введите возраст:");
-                string b = Console.ReadLine();
-                int x = 0;
-                x++;
-                int y = 0;
-                y++;
-                NamesAndAges[x, y] = a;
-                NamesAndAges[0, 1] = b;
-            }
-        }
-        */
         static void Main(string[] args)
         {
-            string[,] NamesAndAges = new string[4, 2];
+            Console.WriteLine("-------------Часть 1-я задания (теперь через массивы)-------------");
 
-            Console.WriteLine("Введите имя:");
-            string a1 = Console.ReadLine();
-            Console.WriteLine("Введите возраст:");
-            string b1 = Console.ReadLine();
+            string[] Names = new string[4];
+            int[] Ages = new int[4];
 
-            Console.WriteLine("Введите имя:");
-            string a2 = Console.ReadLine();
-            Console.WriteLine("Введите возраст:");
-            string b2 = Console.ReadLine();
+            for (int i = 1; i <= 4; i++)
+            {
+                //Имена
+                Console.WriteLine($"Введите имя {i}-го человека:");
+                string name = Console.ReadLine();
+                Names[i - 1] = name;
 
-            Console.WriteLine("Введите имя:");
-            string a3 = Console.ReadLine();
-            Console.WriteLine("Введите возраст:");
-            string b3 = Console.ReadLine();
+                //Года
+                Console.WriteLine($"Введите возраст {i}-го человека:");
+                int age = Int32.Parse(Console.ReadLine());
+                Ages[i - 1] = age;
+            }
 
-            Console.WriteLine("Введите имя:");
-            string a4 = Console.ReadLine();
-            Console.WriteLine("Введите возраст:");
-            string b4 = Console.ReadLine();
+            //Вывод массивов
+            for (int i = 1; i <= 4; i++)
+            {
+                Console.WriteLine($"Name: {Names[i-1]}, age in 4 years: {Ages[i-1]}");
+            }
 
-            //Имена
-            NamesAndAges[0, 0] = a1;
-            NamesAndAges[1, 0] = a2;
-            NamesAndAges[2, 0] = a3;
-            NamesAndAges[3, 0] = a4;
-            //Года
-            NamesAndAges[0, 1] = b1;
-            NamesAndAges[1, 1] = b2;
-            NamesAndAges[2, 1] = b3;
-            NamesAndAges[3, 1] = b4;
-            Console.Clear();
+            Console.ReadKey();
+            
+            Console.WriteLine("-------------Часть 2-я задания (Таблица Пифагора через )-------------");
 
-            Console.WriteLine($"Name: {NamesAndAges[0, 0]}, age in 4 years: {NamesAndAges[0, 1]}");
-            Console.WriteLine($"Name: {NamesAndAges[1, 0]}, age in 4 years: {NamesAndAges[1, 1]}");
-            Console.WriteLine($"Name: {NamesAndAges[2, 0]}, age in 4 years: {NamesAndAges[2, 1]}");
-            Console.WriteLine($"Name: {NamesAndAges[3, 0]}, age in 4 years: {NamesAndAges[3, 1]}");
+            Console.WriteLine("Введите первое число:");
+            int a1 = Int32.Parse(Console.ReadLine());
+            Console.WriteLine("Введите второе число:");
+            int a2 = Int32.Parse(Console.ReadLine());
+
+            Console.WriteLine
+                (
+                string.Join("\n", Enumerable.Range(a1, a2)
+                .Select(n => string.Join(" ",Enumerable.Range(a1, a2)
+                .Select(x => string.Format("{0,2}", n * x)))))
+                );
 
             Console.ReadKey();
         }
