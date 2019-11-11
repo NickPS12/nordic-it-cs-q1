@@ -6,7 +6,7 @@ namespace Lession_03_HM
     class Program
     {
         static void Main(string[] args)
-        {
+        {/*
             Console.WriteLine("-------------Часть 1-я задания (теперь через массивы)-------------");
 
             string[] Names = new string[4];
@@ -32,7 +32,7 @@ namespace Lession_03_HM
             }
 
             Console.ReadKey();
-            
+            */
             Console.WriteLine("-------------Часть 2-я задания (Таблица Пифагора через )-------------");
 
             Console.WriteLine("Введите первое число:");
