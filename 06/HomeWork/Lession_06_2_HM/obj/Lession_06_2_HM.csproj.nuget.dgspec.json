@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\!GitHub\\nordic-it-cs-q1\\06\\HomeWork\\Lession_06_2_HM\\Lession_06_2_HM.csproj": {}
+    "d:\\!GitHub\\nordic-it-cs-q1\\06\\HomeWork\\Lession_06_2_HM\\Lession_06_2_HM.csproj": {}
   },
   "projects": {
-    "D:\\!GitHub\\nordic-it-cs-q1\\06\\HomeWork\\Lession_06_2_HM\\Lession_06_2_HM.csproj": {
+    "d:\\!GitHub\\nordic-it-cs-q1\\06\\HomeWork\\Lession_06_2_HM\\Lession_06_2_HM.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\!GitHub\\nordic-it-cs-q1\\06\\HomeWork\\Lession_06_2_HM\\Lession_06_2_HM.csproj",
+        "projectUniqueName": "d:\\!GitHub\\nordic-it-cs-q1\\06\\HomeWork\\Lession_06_2_HM\\Lession_06_2_HM.csproj",
         "projectName": "Lession_06_2_HM",
-        "projectPath": "D:\\!GitHub\\nordic-it-cs-q1\\06\\HomeWork\\Lession_06_2_HM\\Lession_06_2_HM.csproj",
+        "projectPath": "d:\\!GitHub\\nordic-it-cs-q1\\06\\HomeWork\\Lession_06_2_HM\\Lession_06_2_HM.csproj",
         "packagesPath": "C:\\Users\\nickp\\.nuget\\packages\\",
-        "outputPath": "D:\\!GitHub\\nordic-it-cs-q1\\06\\HomeWork\\Lession_06_2_HM\\obj\\",
+        "outputPath": "d:\\!GitHub\\nordic-it-cs-q1\\06\\HomeWork\\Lession_06_2_HM\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",

@@ -15,19 +15,21 @@ namespace Lession_06_2_HM
                 if (vznos > 0)
                 {
                     Console.WriteLine("Введите сумму ежедневного процента дохода в виде десятичной дроби (1% = 0.01):");
-                    double proz = Convert.ToDouble((Console.ReadLine()).Replace(".", ","));
+                    double proz = (Convert.ToDouble((Console.ReadLine()).Replace(".", ",")))*100;
 
                     Console.WriteLine("Введите сумму желаемого накопления:");
-                    double EndSumm = Convert.ToDouble((Console.ReadLine()).Replace(".", ","));
+                    double EndSum = Convert.ToDouble((Console.ReadLine()).Replace(".", ","));
 
-                    double prozRub = vznos / 100 * proz;
-                    double summ1 = vznos + prozRub;
-                    double WorkSumm = 0;
+                    int days = 0;
 
-                    while (WorkSumm <= EndSumm)
+                    while (vznos <= EndSum)
                     {
-
+                        //Console.WriteLine($"День {days}, денег {vznos}");
+                        vznos *= (1 + proz / 100);
+                        days++;
                     }
+
+                    Console.WriteLine($"Кол-во дней: {days}");
                 }
                 else 
                 { 

@@ -1,0 +1,11 @@
+d:\!GitHub\nordic-it-cs-q1\06\HomeWork\Lession_06_2_HM\bin\Debug\netcoreapp3.0\Lession_06_2_HM.exe
+d:\!GitHub\nordic-it-cs-q1\06\HomeWork\Lession_06_2_HM\bin\Debug\netcoreapp3.0\Lession_06_2_HM.deps.json
+d:\!GitHub\nordic-it-cs-q1\06\HomeWork\Lession_06_2_HM\bin\Debug\netcoreapp3.0\Lession_06_2_HM.runtimeconfig.json
+d:\!GitHub\nordic-it-cs-q1\06\HomeWork\Lession_06_2_HM\bin\Debug\netcoreapp3.0\Lession_06_2_HM.runtimeconfig.dev.json
+d:\!GitHub\nordic-it-cs-q1\06\HomeWork\Lession_06_2_HM\bin\Debug\netcoreapp3.0\Lession_06_2_HM.dll
+d:\!GitHub\nordic-it-cs-q1\06\HomeWork\Lession_06_2_HM\bin\Debug\netcoreapp3.0\Lession_06_2_HM.pdb
+d:\!GitHub\nordic-it-cs-q1\06\HomeWork\Lession_06_2_HM\obj\Debug\netcoreapp3.0\Lession_06_2_HM.csprojAssemblyReference.cache
+d:\!GitHub\nordic-it-cs-q1\06\HomeWork\Lession_06_2_HM\obj\Debug\netcoreapp3.0\Lession_06_2_HM.AssemblyInfoInputs.cache
+d:\!GitHub\nordic-it-cs-q1\06\HomeWork\Lession_06_2_HM\obj\Debug\netcoreapp3.0\Lession_06_2_HM.AssemblyInfo.cs
+d:\!GitHub\nordic-it-cs-q1\06\HomeWork\Lession_06_2_HM\obj\Debug\netcoreapp3.0\Lession_06_2_HM.dll
+d:\!GitHub\nordic-it-cs-q1\06\HomeWork\Lession_06_2_HM\obj\Debug\netcoreapp3.0\Lession_06_2_HM.pdb
