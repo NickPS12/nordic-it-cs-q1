@@ -6,7 +6,8 @@ namespace Lession_07_HM
     {
         static void Main(string[] args)
         {
-            /*
+            start:
+
             var s1 = "()";            // True
             var s2 = "[]()";          // True
             var s3 = "[[]()]";        // True
@@ -16,24 +17,12 @@ namespace Lession_07_HM
             var s6 = "[][)";          // False
             var s7 = "[(])";          // False
             var s8 = "(()[]]";        // False
-            */
-            start:
-            Console.WriteLine("Введите хаотичную последовательность символов \"(\",\")\",\"[\" или \"]\":");
-            string str = Console.ReadLine();
-            char[] arr1 = str.ToCharArray(0, str.Length);
-            string str1 = ($"{arr1[0]}" + $"{arr1[str.Length-1]}");
-            if (str1 == "()" || str1 == "[]")
-            {
-                Console.WriteLine("true");
-                Console.ReadKey();
-                Console.Clear();
-            }
-            else
-            {
-                Console.WriteLine("false");
-                Console.ReadKey();
-                Console.Clear();
-            }
+
+            Console.WriteLine("Введите строку для проверки правильности закрытия скобок:");
+
+
+            
+            Console.ReadKey();
             goto start;
         }
     }
