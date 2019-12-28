@@ -1,0 +1,11 @@
+D:\!GitHub\nordic-it-cs-q1\08\ClassWork\Lession_8_CW\bin\Debug\netcoreapp3.0\Lession_8_CW.exe
+D:\!GitHub\nordic-it-cs-q1\08\ClassWork\Lession_8_CW\bin\Debug\netcoreapp3.0\Lession_8_CW.deps.json
+D:\!GitHub\nordic-it-cs-q1\08\ClassWork\Lession_8_CW\bin\Debug\netcoreapp3.0\Lession_8_CW.runtimeconfig.json
+D:\!GitHub\nordic-it-cs-q1\08\ClassWork\Lession_8_CW\bin\Debug\netcoreapp3.0\Lession_8_CW.runtimeconfig.dev.json
+D:\!GitHub\nordic-it-cs-q1\08\ClassWork\Lession_8_CW\bin\Debug\netcoreapp3.0\Lession_8_CW.dll
+D:\!GitHub\nordic-it-cs-q1\08\ClassWork\Lession_8_CW\bin\Debug\netcoreapp3.0\Lession_8_CW.pdb
+D:\!GitHub\nordic-it-cs-q1\08\ClassWork\Lession_8_CW\obj\Debug\netcoreapp3.0\Lession_8_CW.csprojAssemblyReference.cache
+D:\!GitHub\nordic-it-cs-q1\08\ClassWork\Lession_8_CW\obj\Debug\netcoreapp3.0\Lession_8_CW.AssemblyInfoInputs.cache
+D:\!GitHub\nordic-it-cs-q1\08\ClassWork\Lession_8_CW\obj\Debug\netcoreapp3.0\Lession_8_CW.AssemblyInfo.cs
+D:\!GitHub\nordic-it-cs-q1\08\ClassWork\Lession_8_CW\obj\Debug\netcoreapp3.0\Lession_8_CW.dll
+D:\!GitHub\nordic-it-cs-q1\08\ClassWork\Lession_8_CW\obj\Debug\netcoreapp3.0\Lession_8_CW.pdb
