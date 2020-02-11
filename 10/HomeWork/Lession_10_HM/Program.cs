@@ -6,46 +6,57 @@ namespace Lession_10_HM
     {
         static void Main(string[] args)
         {
-            Person[] persons = new Person[5];
-            int num;
-            for (int i = 1; i <= 4; i++)
+            Console.Write("Введите количество человек: ");
+
+            string str = Console.ReadLine();
+
+            bool CheckNum1 = int.TryParse(str, out int num1);
+            
+            if (CheckNum1 == true)
             {
-                persons[i] = new Person();
+                int persons_count = Int32.Parse(str);
 
-                entername:
-                Console.WriteLine($"Введите имя {i}-го человека:");
-                persons[i].Name = Console.ReadLine();
-                bool CheckNum = int.TryParse(persons[i].Name, out num);
-                if (CheckNum == true)
-                { 
-                    Console.WriteLine("Число не может быть именем. Попробуйте еще раз.");
-                    Console.ReadKey();
-                    Console.Clear();
-                    goto entername;
+                Person[] persons = new Person[persons_count + 1];
+
+                for (int i = 1; i <= persons_count; i++)
+                {
+                    persons[i] = new Person();
+
+                    Console.Write($"Введите имя {i}-го человека: ");
+
+                    persons[i].Name = Console.ReadLine();
+
+                    bool CheckNum2 = int.TryParse(persons[i].Name, out int num2);
+
+                    if (CheckNum2 == true)
+                    {
+                        throw new Exception ("Число не может быть именем.");
+                    }
+
+                    Console.Write ($"Введите возраст {i}-го человека: ");
+                    try
+                    {
+                        persons[i].Age = Int32.Parse(Console.ReadLine());
+                    }
+                    catch
+                    {
+                        throw new Exception ("Возраст должен быть целочисленным значением.");
+                    }
+
+                    persons[i].AgeAdder();
                 }
 
-                enterage:
-                Console.WriteLine($"Введите возраст {i}-го человека:");
-                try
+                for (int i = 1; i <= persons_count; i++)
                 {
-                    persons[i].Age = Int32.Parse(Console.ReadLine());
+                    Console.WriteLine(persons[i].Discription);
                 }
-                catch
-                {
-                    Console.WriteLine("Так не бывает... Попробуйте еще раз.");
-                    Console.ReadKey();
-                    Console.Clear();
-                    goto enterage;
-                }
-                
-                persons[i].SetBirthPlace();
-                Console.Clear();
+            }
+            else 
+            {
+                throw new Exception ("Количество людей должно быть целочисленным значением.");
             }
 
-            for (int i = 1; i <= 4; i++)
-            {
-                Console.WriteLine(persons[i].Discription);
-            }
+            
 
             Console.ReadKey();
         }

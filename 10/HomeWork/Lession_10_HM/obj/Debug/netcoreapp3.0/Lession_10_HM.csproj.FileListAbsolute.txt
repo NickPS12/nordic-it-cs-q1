@@ -8,3 +8,4 @@ D:\!GitHub\nordic-it-cs-q1\10\HomeWork\Lession_10_HM\bin\Debug\netcoreapp3.0\Les
 D:\!GitHub\nordic-it-cs-q1\10\HomeWork\Lession_10_HM\bin\Debug\netcoreapp3.0\Lession_10_HM.pdb
 D:\!GitHub\nordic-it-cs-q1\10\HomeWork\Lession_10_HM\obj\Debug\netcoreapp3.0\Lession_10_HM.dll
 D:\!GitHub\nordic-it-cs-q1\10\HomeWork\Lession_10_HM\obj\Debug\netcoreapp3.0\Lession_10_HM.pdb
+d:\!GitHub\nordic-it-cs-q1\10\HomeWork\Lession_10_HM\obj\Debug\netcoreapp3.0\Lession_10_HM.csprojAssemblyReference.cache
