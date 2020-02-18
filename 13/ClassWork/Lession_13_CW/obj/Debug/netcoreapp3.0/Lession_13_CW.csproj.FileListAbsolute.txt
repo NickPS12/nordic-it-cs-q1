@@ -1,0 +1,22 @@
+C:\Users\мм\Desktop\NickPS Lessions\Lession_13_CW\obj\Debug\netcoreapp3.0\Lession_13_CW.csprojAssemblyReference.cache
+C:\Users\мм\Desktop\NickPS Lessions\Lession_13_CW\obj\Debug\netcoreapp3.0\Lession_13_CW.AssemblyInfoInputs.cache
+C:\Users\мм\Desktop\NickPS Lessions\Lession_13_CW\obj\Debug\netcoreapp3.0\Lession_13_CW.AssemblyInfo.cs
+C:\Users\мм\Desktop\NickPS Lessions\Lession_13_CW\bin\Debug\netcoreapp3.0\Lession_13_CW.exe
+C:\Users\мм\Desktop\NickPS Lessions\Lession_13_CW\bin\Debug\netcoreapp3.0\Lession_13_CW.deps.json
+C:\Users\мм\Desktop\NickPS Lessions\Lession_13_CW\bin\Debug\netcoreapp3.0\Lession_13_CW.runtimeconfig.json
+C:\Users\мм\Desktop\NickPS Lessions\Lession_13_CW\bin\Debug\netcoreapp3.0\Lession_13_CW.runtimeconfig.dev.json
+C:\Users\мм\Desktop\NickPS Lessions\Lession_13_CW\bin\Debug\netcoreapp3.0\Lession_13_CW.dll
+C:\Users\мм\Desktop\NickPS Lessions\Lession_13_CW\bin\Debug\netcoreapp3.0\Lession_13_CW.pdb
+C:\Users\мм\Desktop\NickPS Lessions\Lession_13_CW\obj\Debug\netcoreapp3.0\Lession_13_CW.dll
+C:\Users\мм\Desktop\NickPS Lessions\Lession_13_CW\obj\Debug\netcoreapp3.0\Lession_13_CW.pdb
+d:\!GitHub\nordic-it-cs-q1\13\ClassWork\Lession_13_CW\bin\Debug\netcoreapp3.0\Lession_13_CW.exe
+d:\!GitHub\nordic-it-cs-q1\13\ClassWork\Lession_13_CW\bin\Debug\netcoreapp3.0\Lession_13_CW.deps.json
+d:\!GitHub\nordic-it-cs-q1\13\ClassWork\Lession_13_CW\bin\Debug\netcoreapp3.0\Lession_13_CW.runtimeconfig.json
+d:\!GitHub\nordic-it-cs-q1\13\ClassWork\Lession_13_CW\bin\Debug\netcoreapp3.0\Lession_13_CW.runtimeconfig.dev.json
+d:\!GitHub\nordic-it-cs-q1\13\ClassWork\Lession_13_CW\bin\Debug\netcoreapp3.0\Lession_13_CW.dll
+d:\!GitHub\nordic-it-cs-q1\13\ClassWork\Lession_13_CW\bin\Debug\netcoreapp3.0\Lession_13_CW.pdb
+d:\!GitHub\nordic-it-cs-q1\13\ClassWork\Lession_13_CW\obj\Debug\netcoreapp3.0\Lession_13_CW.csprojAssemblyReference.cache
+d:\!GitHub\nordic-it-cs-q1\13\ClassWork\Lession_13_CW\obj\Debug\netcoreapp3.0\Lession_13_CW.AssemblyInfoInputs.cache
+d:\!GitHub\nordic-it-cs-q1\13\ClassWork\Lession_13_CW\obj\Debug\netcoreapp3.0\Lession_13_CW.AssemblyInfo.cs
+d:\!GitHub\nordic-it-cs-q1\13\ClassWork\Lession_13_CW\obj\Debug\netcoreapp3.0\Lession_13_CW.dll
+d:\!GitHub\nordic-it-cs-q1\13\ClassWork\Lession_13_CW\obj\Debug\netcoreapp3.0\Lession_13_CW.pdb

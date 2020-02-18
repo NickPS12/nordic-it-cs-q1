@@ -8,24 +8,27 @@
     ".NETCoreApp,Version=v3.0": []
   },
   "packageFolders": {
-    "C:\\Users\\mosco\\.nuget\\packages\\": {},
+    "C:\\Users\\nickp\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mosco\\Desktop\\NickPS Lessions\\Lession_11_CW\\Lession_11_CW.csproj",
+      "projectUniqueName": "d:\\!GitHub\\nordic-it-cs-q1\\11\\ClassWork\\Lession_11_CW\\Lession_11_CW.csproj",
       "projectName": "Lession_11_CW",
-      "projectPath": "C:\\Users\\mosco\\Desktop\\NickPS Lessions\\Lession_11_CW\\Lession_11_CW.csproj",
-      "packagesPath": "C:\\Users\\mosco\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mosco\\Desktop\\NickPS Lessions\\Lession_11_CW\\obj\\",
+      "projectPath": "d:\\!GitHub\\nordic-it-cs-q1\\11\\ClassWork\\Lession_11_CW\\Lession_11_CW.csproj",
+      "packagesPath": "C:\\Users\\nickp\\.nuget\\packages\\",
+      "outputPath": "d:\\!GitHub\\nordic-it-cs-q1\\11\\ClassWork\\Lession_11_CW\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
+        "C:\\Microsoft\\Xamarin\\NuGet\\",
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\mosco\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\nickp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.0"
