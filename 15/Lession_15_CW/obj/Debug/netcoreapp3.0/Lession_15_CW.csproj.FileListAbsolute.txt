@@ -1,0 +1,11 @@
+C:\Users\mosco\OneDrive\Рабочий стол\NickPS Lessions\Lession_15_CW\bin\Debug\netcoreapp3.0\Lession_15_CW.exe
+C:\Users\mosco\OneDrive\Рабочий стол\NickPS Lessions\Lession_15_CW\bin\Debug\netcoreapp3.0\Lession_15_CW.deps.json
+C:\Users\mosco\OneDrive\Рабочий стол\NickPS Lessions\Lession_15_CW\bin\Debug\netcoreapp3.0\Lession_15_CW.runtimeconfig.json
+C:\Users\mosco\OneDrive\Рабочий стол\NickPS Lessions\Lession_15_CW\bin\Debug\netcoreapp3.0\Lession_15_CW.runtimeconfig.dev.json
+C:\Users\mosco\OneDrive\Рабочий стол\NickPS Lessions\Lession_15_CW\bin\Debug\netcoreapp3.0\Lession_15_CW.dll
+C:\Users\mosco\OneDrive\Рабочий стол\NickPS Lessions\Lession_15_CW\bin\Debug\netcoreapp3.0\Lession_15_CW.pdb
+C:\Users\mosco\OneDrive\Рабочий стол\NickPS Lessions\Lession_15_CW\obj\Debug\netcoreapp3.0\Lession_15_CW.csprojAssemblyReference.cache
+C:\Users\mosco\OneDrive\Рабочий стол\NickPS Lessions\Lession_15_CW\obj\Debug\netcoreapp3.0\Lession_15_CW.AssemblyInfoInputs.cache
+C:\Users\mosco\OneDrive\Рабочий стол\NickPS Lessions\Lession_15_CW\obj\Debug\netcoreapp3.0\Lession_15_CW.AssemblyInfo.cs
+C:\Users\mosco\OneDrive\Рабочий стол\NickPS Lessions\Lession_15_CW\obj\Debug\netcoreapp3.0\Lession_15_CW.dll
+C:\Users\mosco\OneDrive\Рабочий стол\NickPS Lessions\Lession_15_CW\obj\Debug\netcoreapp3.0\Lession_15_CW.pdb

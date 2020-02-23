@@ -1,26 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "d:\\!GitHub\\nordic-it-cs-q1\\12\\HomeWork\\Lession_12_HM\\Lession_12_HM.csproj": {}
+    "C:\\Users\\mosco\\OneDrive\\Рабочий стол\\NickPS Lessions\\Lession_15_CW\\Lession_15_CW.csproj": {}
   },
   "projects": {
-    "d:\\!GitHub\\nordic-it-cs-q1\\12\\HomeWork\\Lession_12_HM\\Lession_12_HM.csproj": {
+    "C:\\Users\\mosco\\OneDrive\\Рабочий стол\\NickPS Lessions\\Lession_15_CW\\Lession_15_CW.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\!GitHub\\nordic-it-cs-q1\\12\\HomeWork\\Lession_12_HM\\Lession_12_HM.csproj",
-        "projectName": "Lession_12_HM",
-        "projectPath": "d:\\!GitHub\\nordic-it-cs-q1\\12\\HomeWork\\Lession_12_HM\\Lession_12_HM.csproj",
-        "packagesPath": "C:\\Users\\nickp\\.nuget\\packages\\",
-        "outputPath": "d:\\!GitHub\\nordic-it-cs-q1\\12\\HomeWork\\Lession_12_HM\\obj\\",
+        "projectUniqueName": "C:\\Users\\mosco\\OneDrive\\Рабочий стол\\NickPS Lessions\\Lession_15_CW\\Lession_15_CW.csproj",
+        "projectName": "Lession_15_CW",
+        "projectPath": "C:\\Users\\mosco\\OneDrive\\Рабочий стол\\NickPS Lessions\\Lession_15_CW\\Lession_15_CW.csproj",
+        "packagesPath": "C:\\Users\\mosco\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mosco\\OneDrive\\Рабочий стол\\NickPS Lessions\\Lession_15_CW\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\nickp\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\mosco\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.0"

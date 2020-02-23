@@ -1,0 +1,11 @@
+C:\Users\mosco\Desktop\NickPS Lessions\Lession_14_CW\bin\Debug\netcoreapp3.1\Lession_14_CW.exe
+C:\Users\mosco\Desktop\NickPS Lessions\Lession_14_CW\bin\Debug\netcoreapp3.1\Lession_14_CW.deps.json
+C:\Users\mosco\Desktop\NickPS Lessions\Lession_14_CW\bin\Debug\netcoreapp3.1\Lession_14_CW.runtimeconfig.json
+C:\Users\mosco\Desktop\NickPS Lessions\Lession_14_CW\bin\Debug\netcoreapp3.1\Lession_14_CW.runtimeconfig.dev.json
+C:\Users\mosco\Desktop\NickPS Lessions\Lession_14_CW\bin\Debug\netcoreapp3.1\Lession_14_CW.dll
+C:\Users\mosco\Desktop\NickPS Lessions\Lession_14_CW\bin\Debug\netcoreapp3.1\Lession_14_CW.pdb
+C:\Users\mosco\Desktop\NickPS Lessions\Lession_14_CW\obj\Debug\netcoreapp3.1\Lession_14_CW.csprojAssemblyReference.cache
+C:\Users\mosco\Desktop\NickPS Lessions\Lession_14_CW\obj\Debug\netcoreapp3.1\Lession_14_CW.AssemblyInfoInputs.cache
+C:\Users\mosco\Desktop\NickPS Lessions\Lession_14_CW\obj\Debug\netcoreapp3.1\Lession_14_CW.AssemblyInfo.cs
+C:\Users\mosco\Desktop\NickPS Lessions\Lession_14_CW\obj\Debug\netcoreapp3.1\Lession_14_CW.dll
+C:\Users\mosco\Desktop\NickPS Lessions\Lession_14_CW\obj\Debug\netcoreapp3.1\Lession_14_CW.pdb

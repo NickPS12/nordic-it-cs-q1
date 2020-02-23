@@ -1,36 +1,34 @@
 {
   "format": 1,
   "restore": {
-    "d:\\!GitHub\\nordic-it-cs-q1\\12\\HomeWork\\Lession_12_HM\\Lession_12_HM.csproj": {}
+    "C:\\Users\\mosco\\Desktop\\NickPS Lessions\\Lession_14_CW\\Lession_14_CW.csproj": {}
   },
   "projects": {
-    "d:\\!GitHub\\nordic-it-cs-q1\\12\\HomeWork\\Lession_12_HM\\Lession_12_HM.csproj": {
+    "C:\\Users\\mosco\\Desktop\\NickPS Lessions\\Lession_14_CW\\Lession_14_CW.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\!GitHub\\nordic-it-cs-q1\\12\\HomeWork\\Lession_12_HM\\Lession_12_HM.csproj",
-        "projectName": "Lession_12_HM",
-        "projectPath": "d:\\!GitHub\\nordic-it-cs-q1\\12\\HomeWork\\Lession_12_HM\\Lession_12_HM.csproj",
-        "packagesPath": "C:\\Users\\nickp\\.nuget\\packages\\",
-        "outputPath": "d:\\!GitHub\\nordic-it-cs-q1\\12\\HomeWork\\Lession_12_HM\\obj\\",
+        "projectUniqueName": "C:\\Users\\mosco\\Desktop\\NickPS Lessions\\Lession_14_CW\\Lession_14_CW.csproj",
+        "projectName": "Lession_14_CW",
+        "projectPath": "C:\\Users\\mosco\\Desktop\\NickPS Lessions\\Lession_14_CW\\Lession_14_CW.csproj",
+        "packagesPath": "C:\\Users\\mosco\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mosco\\Desktop\\NickPS Lessions\\Lession_14_CW\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\nickp\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\mosco\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "netcoreapp3.0"
+          "netcoreapp3.1"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netcoreapp3.0": {
+          "netcoreapp3.1": {
             "projectReferences": {}
           }
         },
@@ -41,7 +39,7 @@
         }
       },
       "frameworks": {
-        "netcoreapp3.0": {
+        "netcoreapp3.1": {
           "imports": [
             "net461",
             "net462",
@@ -57,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
         }
       }
     }
