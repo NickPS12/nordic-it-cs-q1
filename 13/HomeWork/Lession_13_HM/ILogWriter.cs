@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Lession_13_HM
 {
-    interface ILogWriter
+    public interface ILogWriter
     {
         void LogInfo(string message);
 
