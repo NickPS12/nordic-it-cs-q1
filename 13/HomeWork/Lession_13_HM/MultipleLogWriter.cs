@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Lession_13_HM
 {
-    class MultipleLogWriter
+    public class MultipleLogWriter
     {
 
     }
